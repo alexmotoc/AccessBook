@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">AccessBook</string>
+
+    <!-- Main screen -->
+    <string name="book">Book Assistance</string>
+    <string name="upcoming">Upcoming Bookings</string>
+    <string name="feedback">Send Feedback</string>
+
+    <!--- Actions -->
+    <string name="next">NEXT</string>
+    <string name="confirm">CONFIRM</string>
+
+    <!-- Bookings -->
+    <string name="departure">Departure Station</string>
+    <string name="arrival">Arrival Station</string>
+    <string name="departure_date">Departure Date</string>
+    <string name="departure_time">Departure Time</string>
+    <string name="arrival_date">Arrival Date</string>
+    <string name="arrival_time">Arrival Time</string>
+    <string name="pick_date">PICK DATE</string>
+    <string name="pick_time">PICK TIME</string>
+    <string name="change_date">CHANGE DATE</string>
+    <string name="change_time">CHANGE TIME</string>
+    <string name="disability">Type of disability</string>
+    <string name="contact">Contact Number</string>
+    <string name="submitted">Booking has been submitted!</string>
+    <string name="date">%1$04d-%2$02d-%3$02d</string>
+    <string name="time">%1$02d:%2$02d</string>
+
+    <!-- Disabilities -->
+    <string name="visibility">Vision Impairment</string>
+    <string name="hearing">Hearing Impairment</string>
+    <string name="mental_health">Mental Health Conditions</string>
+    <string name="physical">Physical Disability</string>
+    <string name="pregnant">Pregnant</string>
+    <string name="luggage">Luggage</string>
+
+    <!-- Upcoming -->
+    <string name="depart">DEPART</string>
+    <string name="arrive">ARRIVE</string>
+
+    <!-- Feedback -->
+    <string name="rating">Rating</string>
+    <string name="assistance">How was the assistance?</string>
+    <string name="facility">Was the facility suitable?</string>
+    <string name="navigation">How easy was navigation?</string>
+    <string name="improvement">How can we improve?</string>
+    <string name="zero">0</string>
+    <string name="ten">10</string>
+    <string name="sent">Feedback has been sent!</string>
+    <string name="send">SEND</string>
+
+    <!-- Content description -->
+    <string name="train">Train</string>
+    <string name="arrow">Arrow</string>
+</resources>

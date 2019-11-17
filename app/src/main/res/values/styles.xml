@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:buttonStyle">@style/RalewayButtonStyle</item>
+        <item name="android:textViewStyle">@style/RalewayTextViewStyle</item>
+    </style>
+
+    <style name="RalewayButtonStyle" parent="android:Widget.Button">
+        <item name="android:fontFamily">@font/raleway_medium</item>
+    </style>
+
+    <style name="RalewayTextViewStyle" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/raleway_medium</item>
+    </style>
+
+</resources>

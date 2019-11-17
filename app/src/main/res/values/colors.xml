@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFB74D</color>
+    <color name="colorPrimaryDark">#FF9800</color>
+    <color name="colorPrimaryLight">#FFE0B2</color>
+    <color name="colorAccent">#03A9F4</color>
+    <color name="colorAccentDark">#0288D1</color>
+    <color name="colorAccentLight">#4FC3F7</color>
+
+    <!-- Main colors -->
+    <color name="booking">#08EC7A</color>
+    <color name="upcoming">#03A9F4</color>
+    <color name="feedback">#F8BA00</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
